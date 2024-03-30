@@ -61,7 +61,7 @@
   color: #ff9100;
 }
 .banner{
-  background: url("/images/banner.jpeg") no-repeat;
+  background: url("images/banner.jpeg") no-repeat;
   height: 100vh;
   background-size: cover;
   background-position: center;
